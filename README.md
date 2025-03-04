@@ -14,7 +14,7 @@ Use your knowledge of object-oriented programming, ArrayLists, the String class,
 - **Use at least one natural language processing technique** – Use a natural language processing technique to process, analyze, and/or generate text.
 - **Document your code** – Use comments to explain the purpose of the methods and code segments and note any preconditions and postconditions.
 
-## UML Diagram
+## UML Diagram!
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one word, otherwise it might not properly get display on this README.
 
@@ -30,7 +30,7 @@ Record a short video of your project to display here on your README. You can do 
 - Upload the thumbnail image to your repo.
 - Use the following markdown code:
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Code Video](nameOfThumbnail.png)](https://drive.google.com/file/d/1fR5q17l6ISxBZa9Lg1_rTYr_4tppB2kb/view?usp=sharing)
 
 ## Project Description
 
@@ -41,3 +41,5 @@ My application gives LAUSD students their own unique email. The base of the user
 ## NLP Techniques
 
 Write a description of what natural lanugage technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods word and how they are necessary in the NLP technique.
+
+My project uses NLP methods in order to split and find names. To accomplish this, I utilized the substring and split method. To compare the number of letters in a word, I implemented the equals method. Lastly, in order to have all emails come out in lower case, I used the toLowerCase method. This was all necessary to have the names be transformed into emails exactly the way LAUSD does it.
