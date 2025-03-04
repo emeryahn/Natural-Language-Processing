@@ -18,7 +18,7 @@ Use your knowledge of object-oriented programming, ArrayLists, the String class,
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one word, otherwise it might not properly get display on this README.
 
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram for my project](UML.png)
 
 ## Video
 
@@ -43,3 +43,4 @@ My application gives LAUSD students their own unique email. The base of the user
 Write a description of what natural lanugage technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods word and how they are necessary in the NLP technique.
 
 My project uses NLP methods in order to split and find names. To accomplish this, I utilized the substring and split method. To compare the number of letters in a word, I implemented the equals method. Lastly, in order to have all emails come out in lower case, I used the toLowerCase method. This was all necessary to have the names be transformed into emails exactly the way LAUSD does it.
+- frequency
