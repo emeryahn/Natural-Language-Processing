@@ -42,5 +42,4 @@ My application gives LAUSD students their own unique email. The base of the user
 
 Write a description of what natural lanugage technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods word and how they are necessary in the NLP technique.
 
-My project uses NLP methods in order to split and find names. To accomplish this, I utilized the substring and split method. To compare the number of letters in a word, I implemented the equals method. Lastly, in order to have all emails come out in lower case, I used the toLowerCase method. This was all necessary to have the names be transformed into emails exactly the way LAUSD does it.
-- frequency
+My project uses NLP methods in order to split and find names. To accomplish this, I utilized the substring and split method. To compare the number of letters in a word, I implemented the equals method. Lastly, in order to have all emails come out in lower case, I used the toLowerCase method. This was all necessary to have the names be transformed into emails exactly the way LAUSD does it. My code checks for the frequency for the username bases by traversing through students.txt.
